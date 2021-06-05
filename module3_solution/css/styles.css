@@ -1,0 +1,11 @@
+/*column background color*/
+.l-cyan {
+	background-color: #adffff;
+}
+/*Responsive design for xs screen*/
+@media (max-width: 576px) {
+	#chicken, #beef, #sushi {
+		width: 80%;
+		margin: 10%;
+	}
+}
